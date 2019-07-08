@@ -12,3 +12,11 @@ This is a button which allows users to press on it and jump to another page.
 
 ### List Demo
 This is a list which allows users to store the values of items in the list
+
+
+### Book List Demo
+This is a list which stores the books' name and information in the list
+
+
+### Align Item Demo
+These demos show different kinds of align item on screen
